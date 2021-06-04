@@ -1,18 +1,13 @@
-### Hi there 👋
+## Hello everyone ! 😀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Refaltor77)
+> My name is Elysio Martins, I am 16 years old and I am passionate about computers ! 💻
+I like to learn new thing all the time I’m a big curious 😉
 
-<!--
-**Refaltor77/Refaltor77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### developer ? 
 
-Here are some ideas to get you started:
+> I am an apprentice developer in Ruby, go, js and PHP, I code much more often in PHP because I love the web 🎉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### my projects
+GoldRush : https://discord.gg/9k2r5YCVA3 
+
+visitors : ![visitors](https://visitor-badge.glitch.me/badge?page_id=Refaltor77)
