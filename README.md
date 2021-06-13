@@ -4,7 +4,7 @@
 >  💻 developper web| PHP, Ruby, Java, Python HTML and CSS
 
 [![GitHub: @Refaltor77](https://img.shields.io/github/followers/Refaltor77?label=follow&style=social)](https://github.com/Refaltor77)
-[![Gmail: Refaltor77](https://img.shields.io/badge/Gmail-availchet-red)](elysiomartinspro@gmail.com)
+[![Gmail: Refaltor77](https://img.shields.io/badge/Gmail-Refaltor77-red)](elysiomartinspro@gmail.com)
 
 I am a web developper :house: Provins, France.
 
