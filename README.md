@@ -1,13 +1,36 @@
-## Hello everyone ! 😀
 
-> My name is Elysio Martins, I am 16 years old and I am passionate about computers ! 💻
-I like to learn new thing all the time I’m a big curious 😉
+# Hi, I'm [Refaltor] ! 👋
 
-### developer ? 
+>  💻 developper web| PHP, Ruby, Java, Python HTML and CSS
 
-> I am an apprentice developer in Ruby, go, js and PHP, I code much more often in PHP because I love the web 🎉
+[![GitHub: @Refaltor77](https://img.shields.io/github/followers/availchet?label=follow&style=social)](https://github.com/Refaltor77)
+[![GitHub: @Refaltor77](https://img.shields.io/github/followers/chetanyakan?label=follow&style=social)](https://github.com/Refaltor77)
+<a href="https://dev.to/availchet">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Chetanya Kandhari's DEV Profile" height="20" width="25">
+</a>
+[![Gmail: Refaltor77](https://img.shields.io/badge/Gmail-availchet-red)](elysiomartinspro@gmail.com)
 
-### my projects
-GoldRush : https://discord.gg/9k2r5YCVA3 
+I am a web developper :house: Provins, France.
 
+I love fixing problems in my code, being able to create fun scripts to help some people
+
+In my spare time, I like to travel :walking:, read :books:, listen to music :headphones: (PNL BEST) and watch movies :tv:.
+
+I enjoy learning new things and connecting with people across a range of industries. 
+If you ever want to bounce ideas off of me, please feel free to reach out. 😄
+
+## ⚡ Stats
+![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Refaltor77&hide=["issues"]&show_icons=true)
+![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Refaltor77&hide=["issues"]&show_icons=true)
+
+##  🎉 Skills  🎉
+- **FrontEnd**: React, CSS, HTML
+- **BackEnd**: PHP, Node.js
+- **DevOps**: Nginx
+- **Web technologies**: HTML5, CSS3
+- **Databases**: MongoDB (Mongoose), MySQL, MariaDB
+- **Languages**: Java, PHP, Js, Ruby, Python
+
+---
+⭐️ From [Refaltor77](https://github.com/Refaltor77)
 visitors : ![visitors](https://visitor-badge.glitch.me/badge?page_id=Refaltor77)
