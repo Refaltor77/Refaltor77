@@ -3,9 +3,9 @@
 
 >  💻 developper web| PHP, Ruby, Java, Python HTML and CSS
 
-[![GitHub: @Refaltor77](https://img.shields.io/github/followers/availchet?label=follow&style=social)](https://github.com/Refaltor77)
-[![GitHub: @Refaltor77](https://img.shields.io/github/followers/chetanyakan?label=follow&style=social)](https://github.com/Refaltor77)
-<a href="https://dev.to/availchet">
+[![GitHub: @Refaltor77](https://img.shields.io/github/followers/Refaltor77?label=follow&style=social)](https://github.com/Refaltor77)
+[![GitHub: @Refaltor77](https://img.shields.io/github/followers/Refaltor77?label=follow&style=social)](https://github.com/Refaltor77)
+<a href="https://dev.to/Refaltor77">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Chetanya Kandhari's DEV Profile" height="20" width="25">
 </a>
 [![Gmail: Refaltor77](https://img.shields.io/badge/Gmail-availchet-red)](elysiomartinspro@gmail.com)
