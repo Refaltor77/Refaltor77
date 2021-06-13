@@ -17,7 +17,6 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ## ⚡ Stats
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Refaltor77&hide=["issues"]&show_icons=true)
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Refaltor77&hide=["issues"]&show_icons=true)
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: React, CSS, HTML
