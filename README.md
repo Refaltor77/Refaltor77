@@ -24,6 +24,7 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 - **DevOps**: Nginx
 - **Web technologies**: HTML5, CSS3
 - **Databases**: MongoDB (Mongoose), MySQL, MariaDB
+- **Frameworks**: Laravel
 - **Languages**: Java, PHP, Js, Ruby, Python
 
 ---
