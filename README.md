@@ -1,32 +1,43 @@
+# Refaltor77 – Développeur Web Full Stack | PHP, JavaScript, React, Laravel
 
-# Hi, I'm [Refaltor] ! 👋
-
->  💻 developper web| JavaScript (TypeScript), PHP, Ruby, Java, Python HTML and CSS
+> 💻 Développeur Web Full Stack spécialisé en JavaScript (TypeScript), PHP, Ruby, Java, Python, HTML5 et CSS3
 
 [![GitHub: @Refaltor77](https://img.shields.io/github/followers/Refaltor77?label=follow&style=social)](https://github.com/Refaltor77)
 [![Gmail: Refaltor77](https://img.shields.io/badge/Gmail-Refaltor77-red)](mailto:elysiomartinspro@gmail.com)
 
-I am a web developper :house: Provins, France.
+## 👋 À propos de moi
 
-I love fixing problems in my code, being able to create fun scripts to help some people
+Je suis **Refaltor**, développeur web full stack basé à **Provins, France** 🇫🇷. Passionné par la résolution de problèmes et la création d'outils utiles, je conçois des applications web performantes avec des technologies modernes comme **React**, **Laravel**, **Node.js** et **MySQL**.
 
-In my spare time, I like to travel :walking:, read :books:, listen to music :headphones: (PNL BEST) and watch movies :tv:.
+J'utilise **Claude Code** au quotidien pour accélérer mon workflow de développement et booster ma productivité grâce à l'IA.
 
-I enjoy learning new things and connecting with people across a range of industries. 
-If you ever want to bounce ideas off of me, please feel free to reach out. 😄
+En dehors du code, j'aime voyager 🌍, lire 📚, écouter de la musique 🎧 et regarder des films 🎬.
 
-## ⚡ Stats
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Refaltor77&hide=["issues"]&show_icons=true)
+Toujours curieux d'apprendre et ouvert aux échanges — n'hésitez pas à me contacter ! 😄
 
-##  🎉 Skills  🎉
-- **FrontEnd**: React, CSS, HTML
-- **BackEnd**: PHP, Node.js
-- **DevOps**: Nginx
-- **Web technologies**: HTML5, CSS3
-- **Databases**: MongoDB (Mongoose), MySQL, MariaDB
-- **Frameworks**: Laravel
-- **Languages**: Java, PHP, Js, Ruby, Python
+## 🚀 Projets
+
+### [RGPD Scanner](https://rgpdscanner.fr)
+Outil en ligne d'analyse et de conformité RGPD pour les sites web. Scannez votre site et identifiez les points de non-conformité liés à la protection des données personnelles.
+
+🔗 **[rgpdscanner.fr](https://rgpdscanner.fr)**
+
+## 🛠️ Compétences techniques
+
+| Domaine | Technologies |
+|---|---|
+| **Langages** | PHP, JavaScript, TypeScript, Java, Ruby, Python |
+| **Front-End** | React, HTML5, CSS3 |
+| **Back-End** | Node.js, PHP |
+| **Frameworks** | Laravel |
+| **Bases de données** | MySQL, MariaDB, MongoDB (Mongoose) |
+| **DevOps** | Nginx |
+| **Outils IA** | Claude Code |
+
+## 🔑 Mots-clés
+
+`développeur web` `full stack developer` `PHP developer` `React developer` `Laravel` `Node.js` `JavaScript` `TypeScript` `MySQL` `MongoDB` `Claude Code` `RGPD` `conformité RGPD` `France` `open source`
 
 ---
+
 ⭐️ From [Refaltor77](https://github.com/Refaltor77)
-visitors : ![visitors](https://visitor-badge.glitch.me/badge?page_id=Refaltor77)
