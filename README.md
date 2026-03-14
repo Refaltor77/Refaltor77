@@ -1,43 +1,58 @@
-# Refaltor77 – Développeur Web Full Stack | PHP, JavaScript, React, Laravel
+# 👋 Hi, I'm Refaltor77
 
-> 💻 Développeur Web Full Stack spécialisé en JavaScript (TypeScript), PHP, Ruby, Java, Python, HTML5 et CSS3
-
-[![GitHub: @Refaltor77](https://img.shields.io/github/followers/Refaltor77?label=follow&style=social)](https://github.com/Refaltor77)
-[![Gmail: Refaltor77](https://img.shields.io/badge/Gmail-Refaltor77-red)](mailto:elysiomartinspro@gmail.com)
-
-## 👋 À propos de moi
-
-Je suis **Refaltor**, développeur web full stack basé à **Provins, France** 🇫🇷. Passionné par la résolution de problèmes et la création d'outils utiles, je conçois des applications web performantes avec des technologies modernes comme **React**, **Laravel**, **Node.js** et **MySQL**.
-
-J'utilise **Claude Code** au quotidien pour accélérer mon workflow de développement et booster ma productivité grâce à l'IA.
-
-En dehors du code, j'aime voyager 🌍, lire 📚, écouter de la musique 🎧 et regarder des films 🎬.
-
-Toujours curieux d'apprendre et ouvert aux échanges — n'hésitez pas à me contacter ! 😄
-
-## 🚀 Projets
-
-### [RGPD Scanner](https://rgpdscanner.fr)
-Outil en ligne d'analyse et de conformité RGPD pour les sites web. Scannez votre site et identifiez les points de non-conformité liés à la protection des données personnelles.
-
-🔗 **[rgpdscanner.fr](https://rgpdscanner.fr)**
-
-## 🛠️ Compétences techniques
-
-| Domaine | Technologies |
-|---|---|
-| **Langages** | PHP, JavaScript, TypeScript, Java, Ruby, Python |
-| **Front-End** | React, HTML5, CSS3 |
-| **Back-End** | Node.js, PHP |
-| **Frameworks** | Laravel |
-| **Bases de données** | MySQL, MariaDB, MongoDB (Mongoose) |
-| **DevOps** | Nginx |
-| **Outils IA** | Claude Code |
-
-## 🔑 Mots-clés
-
-`développeur web` `full stack developer` `PHP developer` `React developer` `Laravel` `Node.js` `JavaScript` `TypeScript` `MySQL` `MongoDB` `Claude Code` `RGPD` `conformité RGPD` `France` `open source`
+💻 **Full-Stack Web Developer based in France**  
+Passionate about building efficient, scalable, and modern web applications. I enjoy turning ideas into clean, functional products while continuously improving my technical skills and exploring new technologies such as AI-assisted development.
 
 ---
 
-⭐️ From [Refaltor77](https://github.com/Refaltor77)
+## 🚀 About Me
+
+- 🌍 Based in **France**
+- 🧠 Full-stack developer focused on modern web technologies
+- 🤖 Using **AI tools** to improve development workflows and productivity
+- ⚙️ Interested in building performant and scalable applications
+- 📚 Constantly learning and experimenting with new tools and frameworks
+- 🤝 Open to collaboration and open-source contributions
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|--------|--------|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | Node.js, PHP |
+| **Frameworks** | React, Express |
+| **Database** | MySQL, MongoDB |
+| **Tools** | Git, GitHub, Docker, AI-assisted development |
+
+---
+
+## 📂 Projects
+
+Here are some projects I’ve worked on:
+
+- 🔧 Web applications built with modern JavaScript frameworks  
+- ⚡ Backend APIs designed for performance and scalability  
+- 🤖 Projects integrating **AI-assisted workflows** for faster development  
+- 🧩 Full-stack projects combining frontend interfaces and backend logic  
+
+More projects are available in my repositories.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Refaltor77&show_icons=true)
+
+---
+
+## 🏷️ Keywords
+
+`Full-Stack Developer` • `Web Development` • `JavaScript` • `Node.js` • `React` • `PHP` • `APIs` • `Artificial Intelligence` • `AI-assisted development` • `Open Source`
+
+---
+
+## 📫 Connect
+
+Feel free to explore my repositories and follow my work.
