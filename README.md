@@ -22,7 +22,7 @@ Passionate about building efficient, scalable, and modern web applications. I en
 |--------|--------|
 | **Frontend** | HTML, CSS, JavaScript |
 | **Backend** | Node.js, PHP |
-| **Frameworks** | React, Express |
+| **Frameworks** | React, Express, Laravel |
 | **Database** | MySQL, MongoDB |
 | **Tools** | Git, GitHub, Docker, AI-assisted development |
 
